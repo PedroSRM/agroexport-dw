@@ -1,0 +1,91 @@
+Nro.;CAPITULO;TOTAL GENERAL;PAIS ARGENTINA;PAIS BRASIL;PAIS URUGUAY;PAIS VENEZUELA;MERCOSUR;RESTO DEL MUNDO
+TOTAL;TOTAL;8.517.932;2.125.087;3.023.937;104.704;9.660;5.263.389;3.254.543
+1;Animales vivos;37;33;-;4;-;37;-
+2;Carne y despojos comestibles;1.183.994;1.849;95.652;23.435;-;120.935;1.063.058
+3;Pescados, crustaceos y moluscos;37;-;-;-;-;-;37
+4;Leche, productos lacteos;26.464;-;14.617;-;-;14.617;11.847
+5;Demas productos animales no exportables en otras partidas;57.101;4.388;6.712;0;-;11.099;46.002
+6;Plantas vivas y productos de floricultura;10;-;-;-;-;-;10
+7;Legumbres, hortalizas, plantas y raices;936;39;101;11;-;150;786
+8;Frutos comestibles, cortezas de agrios;18.907;15.844;67;454;-;16.365;2.542
+9;Cafe, te, yerba mate y especias;26.238;20.525;575;1;-;21.101;5.137
+10;Cereales;679.475;5.284;416.723;18.121;656;440.783;238.692
+11;Productos de la molineria, malta y almidon;22.300;2.684;4.325;1.036;925;8.969;13.331
+12;Semillas, frutos oleaginosos;2.273.002;1.619.979;257.594;3.804;33;1.881.410;391.592
+13;Goma, resinas;32;15;13;-;-;27;5
+15;Grasa vacuna industrial, ceras de origen animal;471.078;45.717;92.263;854;377;139.210;331.868
+16;Preparados de carne, pescados crustaceos;1.111;-;-;905;-;905;206
+17;Azucares y articulos de confiteria;58.370;162;29;-;-;190;58.179
+18;Cacao y sus preparaciones;30;8;-;-;-;8;22
+19;Preparaciones a base de cereales;4.719;0;812;1.031;-;1.843;2.876
+20;Preparaciones legumbres y hortalizas;7.609;1.546;13;239;-;1.798;5.811
+21;Preparaciones alimenticias diversas;12.218;2.701;7.991;434;117;11.243;974
+22;Bebidas, liquidos alcoholicos;93.018;311;79.505;262;-;80.078;12.939
+23;Residuos y desperdicios de industria alimenticia;732.962;2.238;11.822;16.138;6.943;37.141;695.821
+24;Tabaco y sucedaneos del tabaco;52.623;11;3.975;6.824;-;10.811;41.812
+25;Sal, azufre, tierras, piedras y yesos;201;86;12;-;-;97;104
+26;Minerales metaliferos, escorias y cenizas;31;-;28;1;-;29;2
+27;Combustibles y aceites minerales;1.737.487;295.143;1.442.333;11;-;1.737.487;0
+28;Productos quimicos inorganicos, compuestos inorganicos;1.712;789;452;-;-;1.241;471
+29;Productos quimicos organicos;2.757;158;2.039;6;0;2.203;554
+30;Productos farmaceuticos;50.166;536;4.590;4.439;453;10.018;40.148
+31;Abonos;1.288;-;1.069;40;-;1.110;179
+32;Extracto curtiente, tintoreos, taninos;3.300;213;2.116;50;-;2.380;920
+33;Aceites esenciales, resinoideos;19.471;590;1.313;648;-;2.551;16.920
+34;Jabones, agentes de superficie, etc.;11.769;2.172;2.355;2.600;-;7.127;4.641
+35;Materias albuminoideas colas y productos de almidon;1.924;62;80;15;-;158;1.765
+37;Productos fotograficos y cinematograficos;13;6;-;7;-;-;13
+38;Productos diversos de la industria quimica;24.146;384;11.334;1.903;-;13.620;10.526
+39;Materias plasticas y manufacturas de estas;87.445;6.021;70.962;989;-;77.971;9.474
+40;Caucho y manufacturas de caucho;1.967;5;448;46;-;499;1.468
+41;Pieles y cueros (excepto la peleteria);35.584;411;1.664;3.344;-;5.419;30.165
+42;Manufacturas de cueros, articulos de talabarteria;34.308;103;44;48;-;195;34.114
+43;Peleteria y confecciones de peleteria;1;1;-;0;-;1;0
+44;Maderas, carbon vegetal, manufacturas de madera;57.503;1.366;1.363;4.138;-;6.867;50.636
+46;Manufacturas de esparteria y de cesteria;216;-;-;-;-;-;216
+47;Pastas de maderas u otras materias fibrosas;200;-;198;-;-;198;2
+48;Papel, carton y sus manufacturas;38.624;11.020;10.726;140;-;21.886;16.738
+49;Productos editoriales, de la prensa y grafica;180;63;17;15;-;95;84
+50;Seda;4;-;-;-;-;-;4
+52;Algodon;6.984;684;995;73;-;1.752;5.233
+54;Filamentos sinteticos o artificiales;12.882;1.212;10.850;428;-;12.490;392
+55;Fibras sinteticas o artificiales discontinuas;1.663;34;1.600;-;-;1.634;29
+56;Guata, fieltro y telas sin tejer;42.519;5.609;34.008;872;-;40.490;2.029
+57;Alfombras y demas revestimientos para el suelo;26.818;638;25.518;205;-;26.361;457
+58;Tejidos especiales, superficiales y  textiles;1.485;386;1.072;9;-;1.466;19
+59;Tejidos impregnados, revestidos;541;85;410;0;-;495;46
+60;Tejidos de puntos;8.972;15;8.934;-;-;8.949;23
+61;Prendas, complementos de vestir de punto;39.256;827;36.033;306;133;37.299;1.958
+62;Prendas, complementos de vestir excepto de punto;17.525;2.753;12.672;800;7;16.232;1.293
+63;Los demas articulos textiles, confecciones;71.152;1.583;65.788;354;1;67.726;3.426
+64;Calzados, polainas, botines y articulos Analogos;10.331;45;8.500;567;-;9.111;1.219
+65;Articulos de sombreria y sus partes;1.318;30;1.282;1;2;1.315;3
+66;Paraguas, sombrillas etc., y sus partes;3;-;-;3;-;3;1
+67;Plumas, articulos de plumas. Manufactura de cabello;249;-;0;1;-;1;248
+68;Manufacturas de piedra, yeso y cemento;381;307;59;2;-;367;14
+69;Productos ceramicos;1.890;1.251;497;137;-;1.885;5
+70;Vidrios y manufacturas de vidrio;10.614;4.855;4.529;1.157;-;10.540;74
+71;Perlas finas o cultivadas y piedras preciosas;3.450;0;-;0;-;0;3.449
+72;Fundicion, hierro y acero;16.700;2.155;1.679;270;-;4.105;12.595
+73;Manufacturas de fundicion de hierro y acero;4.705;62;1.216;2.389;-;3.668;1.037
+74;Cobre y manufacturas de cobre;16.683;-;7.116;251;-;7.366;9.317
+76;Aluminio y manufacturas de aluminio;76.470;5.240;62.551;683;-;68.473;7.997
+78;Plomo y sus manufacturas;3.516;-;3.075;32;-;3.107;409
+79;Zinc y manufacturas de zinc;64;-;-;-;-;-;64
+80;Estano y manufacturas de estano;8;-;1;-;-;1;7
+81;Los Demas Metales Comunes;0;-;0;-;-;0;-
+82;Herramientas y utiles y articulos de cuchilleria;106;3;51;27;0;82;24
+83;Manufacturas de diversos metales;20.091;448;48;1;-;497;19.594
+84;Reactores nucleares, calderas y maquinas;15.338;2.131;8.276;909;-;11.315;4.023
+85;Maquinas, aparatos y materiales electricos;196.958;25.884;148.844;1.490;14;176.232;20.725
+86;Vehiculos y material para vias ferreas;110;-;107;2;-;110;0
+87;Vehiculos terrestres, automovil y  tractores;3.595;176;1.643;96;-;1.915;1.680
+88;Navegacion aerea o espacial;1.491;12;15;-;-;27;1.464
+89;Navegacion maritima o fluvial;17.550;17.472;-;71;-;17.542;8
+90;Instrumentos y aparatos de optica, fotografica;19.444;1.596;15.709;143;-;17.448;1.996
+91;Relojeria;308;87;-;2;-;88;219
+92;Instrumentos musicales y sus partes;99;-;99;-;-;99;0
+94;Muebles, mobiliarios medico quirurgico;15.950;4.809;9.054;1.114;-;14.976;974
+95;Juguetes, juegos artificiales para  recreo o deporte;17.614;2.158;5.548;258;-;7.963;9.651
+96;Manufacturas diversas;518;83;230;62;-;374;143
+97;Objetos de arte;7;-;-;-;-;-;7
