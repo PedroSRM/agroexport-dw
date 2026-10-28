@@ -97,5 +97,29 @@ df = con.execute("""
 """).df()
 print(df.to_string(index=False))
 
+# ── 6. DRILL-ACROSS ───────────────────────────────────────────
+# Cruza métricas de fact_despacho con precio de referencia de dim_producto
+# para comparar FOB declarado vs. valor estimado por precio internacional
+print("\n=== DRILL-ACROSS: FOB declarado vs. valor estimado (precio ref. internacional) ===")
+df = con.execute("""
+    SELECT p.categoria,
+           p.descripcion_ncm,
+           t.anio,
+           COUNT(*)                                  AS despachos,
+           SUM(f.fob_usd)                            AS fob_declarado_usd,
+           SUM((f.peso_kg / 1000.0) * p.precio_ref_usd_ton) AS fob_estimado_usd,
+           ROUND(
+               100.0 * (SUM(f.fob_usd) - SUM((f.peso_kg / 1000.0) * p.precio_ref_usd_ton))
+               / NULLIF(SUM((f.peso_kg / 1000.0) * p.precio_ref_usd_ton), 0),
+           2) AS variacion_pct
+    FROM fact_despacho f
+    JOIN dim_producto p ON f.id_producto = p.id_producto
+    JOIN dim_tiempo   t ON f.id_tiempo   = t.id_tiempo
+    WHERE p.id_producto != -1
+    GROUP BY p.categoria, p.descripcion_ncm, t.anio
+    ORDER BY p.categoria, t.anio
+""").df()
+print(df.to_string(index=False))
+
 con.close()
 print("\nConsultas OLAP completadas.")
