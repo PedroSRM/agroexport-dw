@@ -1,0 +1,12 @@
+id_destino,codigo_pais,nombre_pais,region,bloque_comercial
+-1,N/D,No definido,No definido,No definido
+1,ARG,Argentina,América del Sur,MERCOSUR
+2,BRA,Brasil,América del Sur,MERCOSUR
+3,CHL,Chile,América del Sur,Otro
+4,CHN,China,Asia,Otro
+5,DEU,Alemania,Europa,UE
+6,ESP,España,Europa,UE
+7,NLD,Países Bajos,Europa,UE
+8,ROU,Resto del Mundo,Varios,Otro
+9,URY,Uruguay,América del Sur,MERCOSUR
+10,USA,Estados Unidos,América del Norte,Otro

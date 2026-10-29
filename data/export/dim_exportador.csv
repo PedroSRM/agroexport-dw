@@ -1,0 +1,102 @@
+id_exportador,ruc,razon_social,departamento,tipo_empresa,fecha_inicio,fecha_fin,es_vigente
+-1,N/D,No definido,No definido,No definido,2023-01-01,,True
+1,1338552-6,Industrias Llanos S.Com.,Amambay,Unipersonal,2023-01-01,,True
+2,1528977-8,Álvaro y asociados S.Coop.,Itapúa,Cooperativa,2023-01-01,,True
+3,1539653-1,Suministros Blasco S.L.N.E,Concepción,SRL,2023-01-01,,True
+4,1590481-2,Iborra & Asociados S.L.,Canindeyú,SRL,2023-01-01,,True
+5,1652264-2,Finanzas Aguiló y asociados S.L.,Amambay,Unipersonal,2023-01-01,,True
+6,1754280-9,Desarrollo del Noroeste S.Coop.,Itapúa,SRL,2023-01-01,,True
+7,1759074-1,Hermanos Riera S.A.,Central,SRL,2023-01-01,,True
+8,1781186-9,Inmobiliaria Larrea & Asociados S.L.L.,Alto Paraná,Unipersonal,2023-01-01,,True
+9,1787737-4,Iriarte & Asociados S.L.,Itapúa,SA,2023-01-01,,True
+10,1910460-4,Nogueira y asociados S.L.,Concepción,SRL,2023-01-01,,True
+11,1949597-2,Finanzas Expósito & Asociados S.A.,Caaguazú,Cooperativa,2023-01-01,,True
+12,1961193-9,Desarrollo ZCA S.Com.,Canindeyú,SRL,2023-01-01,,True
+13,1964686-5,Tecnologías Internacionales S.L.L.,Concepción,Cooperativa,2023-01-01,,True
+14,2064748-8,Loida Benavent Daza S.A.,Itapúa,SA,2023-01-01,,True
+15,2122047-9,Alejo Echeverría Mayo S.A.,San Pedro,Unipersonal,2023-01-01,,True
+16,2382524-2,Pascuala Nicolás Abella S.A.,Amambay,Unipersonal,2023-01-01,,True
+17,2422631-6,Pedrosa y asociados S.Coop.,Concepción,Unipersonal,2023-01-01,,True
+18,2451177-1,Hotel BCX S.A.,Amambay,Unipersonal,2023-01-01,,True
+19,2477407-2,Lladó y Ponce S.L.U.,Caaguazú,Unipersonal,2023-01-01,,True
+20,2537893-3,Rodolfo Castelló Zabala S.L.N.E,San Pedro,SA,2023-01-01,,True
+21,2595765-9,Amador & Asociados S.A.,Canindeyú,Unipersonal,2023-01-01,,True
+22,2613543-7,Desarrollo Ribas S.Coop.,Alto Paraná,Cooperativa,2023-01-01,,True
+23,2618692-7,Compañía Cid & Asociados S.L.U.,Concepción,Unipersonal,2023-01-01,,True
+24,2633230-4,Finanzas Peña & Asociados S.A.,Caaguazú,SRL,2023-01-01,,True
+25,2667825-1,Servicios GWMI S.Coop.,San Pedro,SRL,2023-01-01,,True
+26,2671534-5,Grupo Cabanillas S.L.,Amambay,SRL,2023-01-01,,True
+27,2721859-9,Hermanos Vázquez S.L.,San Pedro,Unipersonal,2023-01-01,,True
+28,2811363-4,Barral y asociados S.L.,Alto Paraná,SA,2023-01-01,,True
+29,2890865-5,Comercial Pinilla y asociados S.A.,San Pedro,Cooperativa,2023-01-01,,True
+30,3022252-6,Grupo Ribera S.C.P,Itapúa,SRL,2023-01-01,,True
+31,3120821-9,Montesinos y Castillo S.C.P,Central,SA,2023-01-01,,True
+32,3364217-6,Arnal y Galiano S.Coop.,Canindeyú,SA,2023-01-01,,True
+33,3392974-4,Fábrica Castellanos S.A.,Canindeyú,SRL,2023-01-01,,True
+34,3397059-4,Compañía Losada & Asociados S.C.P,San Pedro,SRL,2023-01-01,,True
+35,3528882-6,Transportes KK S.L.,Concepción,SRL,2023-01-01,,True
+36,3541438-8,Instalaciones Torrent S.A.,Amambay,Unipersonal,2023-01-01,,True
+37,3590237-7,Inversiones TO S.L.U.,Central,Cooperativa,2023-01-01,,True
+38,3878418-5,Ortiz y asociados S.L.L.,Central,SRL,2023-01-01,,True
+39,3988992-5,Montalbán y asociados S.L.,Alto Paraná,Cooperativa,2023-01-01,,True
+40,4026067-2,Peralta y Bautista S.A.,Alto Paraná,SRL,2023-01-01,,True
+41,4040180-7,Despacho Muñoz S.L.U.,Concepción,Unipersonal,2023-01-01,,True
+42,4226900-6,Promociones YJQJ S.L.N.E,Caaguazú,Unipersonal,2023-01-01,,True
+43,4386084-7,Distribuciones Salvà & Asociados S.Com.,Alto Paraná,SRL,2023-01-01,,True
+44,4468136-4,Margarita Carro Aguilera S.Com.,Alto Paraná,SRL,2023-01-01,,True
+45,4484531-6,Infraestructuras Ribes & Asociados S.A.,Alto Paraná,SRL,2023-01-01,,True
+46,4531818-4,Jurado y Báez S.Com.,Central,Unipersonal,2023-01-01,,True
+47,4544854-3,Desarrollo Palmer & Asociados S.L.N.E,Itapúa,SA,2023-01-01,,True
+48,4569795-2,Industrias Olivares y asociados S.A.U,Concepción,SA,2023-01-01,,True
+49,4660684-4,Hermanos Andres S.Coop.,Alto Paraná,SA,2023-01-01,,True
+50,4841154-2,Minería Lladó & Asociados S.L.L.,Itapúa,Cooperativa,2023-01-01,,True
+51,4876817-8,Supermercados Lobo & Asociados S.L.,Amambay,SRL,2023-01-01,,True
+52,4986414-2,Vila y Arnaiz S.A.,Concepción,Cooperativa,2023-01-01,,True
+53,5182463-3,Pizarro & Asociados S.L.,San Pedro,SA,2023-01-01,,True
+54,5194880-3,Minería Exposito & Asociados S.L.L.,Central,Cooperativa,2023-01-01,,True
+55,5228914-9,Instalaciones MLR S.Com.,Central,Unipersonal,2023-01-01,,True
+56,5243951-3,Aguilera & Asociados S.L.N.E,Caaguazú,Unipersonal,2023-01-01,,True
+57,5279144-2,Servicios Ibéricos S.Coop.,Canindeyú,SRL,2023-01-01,,True
+58,5467265-1,Soluciones Ruano y asociados S.A.,Canindeyú,Cooperativa,2023-01-01,,True
+59,5527085-4,Antonio Salmerón Acosta S.Com.,Concepción,SRL,2023-01-01,,True
+60,5655124-2,Carmen Nicolau Peralta S.Coop.,Caaguazú,SA,2023-01-01,,True
+61,5920253-4,Estrada & Asociados S.L.,Caaguazú,SA,2023-01-01,,True
+62,6029731-7,Instalaciones Aguilera S.Coop.,Concepción,Cooperativa,2023-01-01,,True
+63,6104573-2,Ferrera y asociados S.L.,Alto Paraná,Cooperativa,2023-01-01,,True
+64,6238436-8,Compañía TRS S.Com.,Alto Paraná,SA,2023-01-01,,True
+65,6343670-2,Tecnologías Girón y asociados S.A.,Caaguazú,Unipersonal,2023-01-01,,True
+66,6447119-2,Promociones Canals S.L.L.,Itapúa,Cooperativa,2023-01-01,,True
+67,6508456-5,Reyes & Asociados S.L.N.E,Canindeyú,SRL,2023-01-01,,True
+68,6889806-5,Rosalva Barceló Iglesia S.A.T.,Caaguazú,SA,2023-01-01,,True
+69,6917837-1,Sandalio Jiménez Ayuso S.A.,Concepción,SRL,2023-01-01,,True
+70,6999635-5,Cárdenas & Asociados S.A.,Canindeyú,Cooperativa,2023-01-01,,True
+71,7158113-1,Consultoría Ibéricos S.Coop.,Amambay,Unipersonal,2023-01-01,,True
+72,7177459-5,Jaime Soriano Nicolau S.Com.,Central,Unipersonal,2023-01-01,,True
+73,7440184-3,Banco LNBO S.L.N.E,San Pedro,Cooperativa,2023-01-01,,True
+74,7707400-4,Castell y asociados S.A.,San Pedro,SRL,2023-01-01,,True
+75,7717152-1,Hermanos Mendizábal S.Com.,Canindeyú,Unipersonal,2023-01-01,,True
+76,7833426-9,Banca Privada AQCF S.Coop.,Concepción,Unipersonal,2023-01-01,,True
+77,7878673-1,Luis Gordillo Barreda S.A.,Alto Paraná,SA,2023-01-01,,True
+78,7882668-2,Restauración Españolas S.L.,Amambay,Cooperativa,2023-01-01,,True
+79,7906470-7,Roma y asociados S.Com.,Central,SA,2023-01-01,,True
+80,7987926-7,Farmaceútica Sanz S.L.,Concepción,SRL,2023-01-01,,True
+81,8010624-3,Cepeda y asociados S.Com.,Alto Paraná,Unipersonal,2023-01-01,,True
+82,8035969-2,Poza & Asociados S.Com.,Concepción,Unipersonal,2023-01-01,,True
+83,8121474-9,Talleres Inteligentes S.Coop.,Itapúa,Cooperativa,2023-01-01,,True
+84,828374-9,Fábrica Méndez & Asociados S.Com.,Caaguazú,Unipersonal,2023-01-01,,True
+85,8412220-1,Celestina Blanca Osorio S.C.P,San Pedro,SRL,2023-01-01,,True
+86,8433773-5,Finanzas Ibérica S.A.U,Amambay,Cooperativa,2023-01-01,,True
+87,8652574-9,Minería UICP S.Coop.,San Pedro,SA,2023-01-01,,True
+88,8773915-9,Aníbal Ibañez Salazar S.Com.,Canindeyú,Unipersonal,2023-01-01,,True
+89,8943903-4,Hermanos Tomé S.A.,Canindeyú,Cooperativa,2023-01-01,,True
+90,9175710-7,Infraestructuras Integrales S.L.,Central,SRL,2023-01-01,,True
+91,9317485-2,Reguera y asociados S.Com.,San Pedro,SRL,2023-01-01,,True
+92,9483481-8,Olivé y Puente S.A.,Itapúa,SRL,2023-01-01,,True
+93,962230-2,Calzada y Arrieta S.A.,Itapúa,SRL,2023-01-01,,True
+94,9652897-7,Distribuciones Contreras S.L.,Caaguazú,SRL,2023-01-01,,True
+95,9796207-6,Alimentación Ramón & Asociados S.Coop.,Alto Paraná,SA,2023-01-01,,True
+96,9797381-8,Hotel RBZI S.Com.,Canindeyú,Cooperativa,2023-01-01,,True
+97,9869560-1,Rincón & Asociados S.Coop.,Itapúa,SRL,2023-01-01,,True
+98,9913685-5,Familia Company S.L.N.E,Alto Paraná,Unipersonal,2023-01-01,,True
+99,9942600-7,Abril y asociados S.Coop.,Caaguazú,Cooperativa,2023-01-01,,True
+100,9953486-1,Vallés y asociados S.Com.,Concepción,SRL,2023-01-01,,True
