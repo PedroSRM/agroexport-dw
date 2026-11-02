@@ -25,16 +25,15 @@ print("Esquema creado en DW.")
 
 # ── 1. dim_tiempo ─────────────────────────────────────────────
 print("Cargando dim_tiempo...")
-fechas = stg.execute("SELECT DISTINCT fecha FROM stg_f1_despachos").df()
-fechas['fecha'] = pd.to_datetime(fechas['fecha'])
-fechas = fechas.sort_values('fecha').reset_index(drop=True)
+
+# Generar TODAS las fechas del período 2023-01-01 a 2025-12-31 (continuo)
+todas_fechas = pd.date_range(start='2023-01-01', end='2025-12-31', freq='D')
 
 MESES = ['Enero','Febrero','Marzo','Abril','Mayo','Junio',
          'Julio','Agosto','Septiembre','Octubre','Noviembre','Diciembre']
 
 rows = []
-for i, row in fechas.iterrows():
-    f = row['fecha']
+for f in todas_fechas:
     rows.append({
         'id_tiempo':  int(f.strftime('%Y%m%d')),
         'fecha':      f.date(),
@@ -47,7 +46,7 @@ for i, row in fechas.iterrows():
 
 df_tiempo = pd.DataFrame(rows)
 dw.execute("INSERT INTO dim_tiempo SELECT * FROM df_tiempo")
-print(f"  dim_tiempo: {len(df_tiempo)} filas")
+print(f"  dim_tiempo: {len(df_tiempo)} filas")  # debe ser 1095
 
 # ── 2. dim_producto (con miembro "No definido" sk=-1) ─────────
 print("Cargando dim_producto...")
