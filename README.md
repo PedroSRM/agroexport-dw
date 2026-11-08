@@ -120,6 +120,8 @@ pip install -r src/etl/requirements.txt
 python src/etl/etl_agroexport.py
 ```
 
+> **Nota:** el archivo `.duckdb` no está versionado. Para regenerarlo, colocar los CSV fuente en `data/raw/` y ejecutar el ETL.
+
 ---
 
 ## Hitos del proyecto
