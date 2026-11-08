@@ -2,7 +2,7 @@
 
 **Curso:** 22891 · Taller de Base de Datos  
 **Universidad:** Universidad del Norte, Paraguay  
-**Docente:** Lic. Walter Romero  
+**Docente:** Walter Romero  
 **Alumno:** Pedro Ríos  
 **Año:** 2026
 
