@@ -71,8 +71,8 @@ agroexport-dw/
 | Total de despachos cargados | 5.000 |
 | Registros en cuarentena (NCM huérfano) | 497 (9,94 %) |
 | Días en `dim_tiempo` | 1.095 (rango continuo 2023–2025) |
-| Variación FOB vs. precio de referencia | +68,3 % |
-| Crecimiento FOB interanual promedio | +52 % |
+| Variación FOB vs. precio de referencia | < 0,4 % |
+| Crecimiento FOB interanual promedio | Brasil +41,8 % (2023–2025) |
 | Exportadores únicos (SCD-2) | — |
 
 ---
